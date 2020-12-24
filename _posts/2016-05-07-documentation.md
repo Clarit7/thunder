@@ -11,6 +11,8 @@ title: Documentation
 ## Customizable theme
 The theme can be customized just by changing few variables in **_config.yml** file.
 
+test 
+
 ## Inline CSS
 Since the style used in this theme is very less, I'm inlining it. This will save a request and hence speeds up website loading.
 
